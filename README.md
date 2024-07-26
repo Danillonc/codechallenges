@@ -1,2 +1,2 @@
 # codechallenges
-This repository is responsible to maintain the common challenges used in interviews
+This repository is responsible for maintaining the common challenges used in interviews
